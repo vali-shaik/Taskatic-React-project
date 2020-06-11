@@ -1,0 +1,37 @@
+@media all and (min-width: 480px) {
+  .SocialMedia {
+    border-radius: 10px;
+    width: 5px;
+    height: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    padding: 20px;
+    display: inline-flex;
+    margin: 5px;
+    background-size: contain;
+  }
+  .Facebook {
+    background-image: url(../images/facebook_image.png);
+  }
+  .Facebook:hover {
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+  }
+  .Google {
+    background-image: url(../images/Google_image.png);
+  }
+  .Google:hover {
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+  }
+  .LinkedIn {
+    background-image: url(../images/LinkedIn_image.png);
+  }
+  .LinkedIn:hover {
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+  }
+}

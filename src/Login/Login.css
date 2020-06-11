@@ -1,0 +1,31 @@
+.Login {
+  width: 300px;
+  height: 400px;
+  margin: 10px;
+  margin-left: 0px;
+  background-color: white;
+  position: relative;
+  padding: 50px;
+  display: inline-block;
+}
+
+.Login form {
+  margin: 0 auto;
+  max-width: 320px;
+}
+.Login Button :hover {
+  text-decoration: underline;
+}
+.Login a {
+  font-weight: bold;
+  color: blue;
+}
+.Login a:hover {
+  font-weight: bold;
+  color: blue;
+  text-decoration: none;
+}
+
+.ErrorText {
+  color: red;
+}
