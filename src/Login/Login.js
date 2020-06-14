@@ -29,13 +29,13 @@ const Login = () => {
   };
 
   return (
-    <div className="LoginHomePage container">
-      <div className="row">
+    <div className="LoginHomePage">
+      <div>
         <NewUser />
       </div>
       <div className="Login row">
         <p className="Title">Log In</p>
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={handleSubmit} action="#">
           <FormGroup>
             <TextField
               id="emailInput"
@@ -89,7 +89,7 @@ const Login = () => {
           <br></br>
           <br></br>
           <FormGroup>
-            <a href="https://www.google.com">Forgot Password?</a>
+            <a href="#">Forgot Password?</a>
           </FormGroup>
         </form>
         <br></br>

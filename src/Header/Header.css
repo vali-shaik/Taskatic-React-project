@@ -9,6 +9,15 @@
   color: white;
   font-weight: bold;
 }
-.LogoutButton {
+.LoginButton {
   margin-left: 10px;
+}
+
+.modal-content {
+  width: 149%;
+  height: 99%;
+  padding-top: 0px;
+}
+.modal {
+  width: 90%;
 }

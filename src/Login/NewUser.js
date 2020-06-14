@@ -5,7 +5,7 @@ const NewUser = () => {
     <div className="NewUser">
       <div className="NewAccountBackground"></div>
       <p>
-        Dont have an account? <a href="https://wwww.google.com">Sign Up</a>
+        Dont have an account? <a href="#">Sign Up</a>
       </p>
     </div>
   );
