@@ -16,6 +16,15 @@
   background-size: contain;
 }
 
+.NewUser {
+  min-width: 350px;
+  height: 400px;
+  margin: 10px;
+  margin-right: 0px;
+  background-color: white;
+  position: relative;
+  display: inline-block;
+}
 .NewUser a {
   font-weight: bold;
   color: blue;
@@ -23,5 +32,5 @@
 .NewUser a:hover {
   font-weight: bold;
   color: blue;
-  text-decoration: none;
+  text-decoration: underline;
 }

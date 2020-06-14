@@ -1,0 +1,28 @@
+.Dashboard {
+  /* width: 600px;
+  height: 200px;
+  margin: 10px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  position: relative; */
+  padding: 15px;
+  display: inline-flex;
+}
+.DashboardTitle {
+  text-align: left;
+  padding: 10px;
+  color: gray;
+}
+.DashboardPicture {
+  margin: 10px;
+  width: 600px;
+  height: 400px;
+  background-image: url(../images/Dashboard_git.gif);
+  background-size: contain;
+  border-radius: 25px;
+}
+.DashboardBottom {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  display: inline-flex;
+}

@@ -1,0 +1,14 @@
+.Header {
+  color: black;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+.nav-link:hover {
+  text-decoration: underline;
+  color: white;
+  font-weight: bold;
+}
+.LogoutButton {
+  margin-left: 10px;
+}

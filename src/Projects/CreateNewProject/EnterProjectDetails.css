@@ -1,0 +1,10 @@
+.EnterProjectDetails {
+  padding-bottom: 15px;
+  width: 900px;
+}
+.EnterProjectDetailsTitle {
+  color: gray;
+  font-size: 25px;
+  font-weight: bold;
+  float: left;
+}

@@ -1,0 +1,30 @@
+.IntroductionTitle {
+  background-color: black;
+  color: white;
+  width: 100%;
+}
+.IntroductionCard {
+  width: 600px;
+  height: 200px;
+  margin: 10px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  position: relative;
+  display: inline-flex;
+}
+.CardTitleText {
+  text-align: left;
+}
+.CardHeader {
+  background-color: #212529;
+  padding: 2px;
+  margin-left: 0px;
+  margin-bottom: 10px;
+}
+.HyperLink {
+  color: blue;
+}
+.HyperLink:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}

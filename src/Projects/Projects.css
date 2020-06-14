@@ -1,0 +1,40 @@
+.ProjectsTitle {
+  font-size: 25px;
+  color: gray;
+  text-align: left;
+  margin: 10px;
+}
+
+.tablecontainer {
+  margin-top: 30px;
+}
+
+.ProjectsTableRow {
+  background-color: #79b9e1;
+}
+.MuiTableCell-head {
+  font-weight: bold;
+}
+.ProjectsRow > a {
+  color: black;
+}
+.ProjectsRowData:hover {
+  color: blue;
+  font-weight: bold;
+}
+
+.ProjectsGroupIcon {
+  margin-left: 50px;
+  color: secondary;
+}
+.ProjectsInsertLinkIcon {
+  margin-left: 55px;
+  color: secondary;
+}
+.ProjectsBadgeIcon {
+  margin-left: 60px;
+  color: secondary;
+}
+.MoreIcon {
+  float: right;
+}

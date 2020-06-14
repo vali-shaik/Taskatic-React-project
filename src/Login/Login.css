@@ -9,6 +9,16 @@
   display: inline-block;
 }
 
+.Title {
+  text-align: left;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.LoginHomePage {
+  display: inline-flex;
+}
+
 .Login form {
   margin: 0 auto;
   max-width: 320px;
@@ -23,9 +33,17 @@
 .Login a:hover {
   font-weight: bold;
   color: blue;
-  text-decoration: none;
+  text-decoration: underline;
+}
+.NormalText {
+  font-weight: bold;
+  color: grey;
 }
 
 .ErrorText {
   color: red;
+}
+
+.errorTextField {
+  border: 1px solid red;
 }
